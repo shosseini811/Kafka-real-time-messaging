@@ -1,1 +1,3 @@
-# Kafka-real-time-messaging
+This article provides an introduction to building real-time data pipelines with Apache Kafka and Python. It explains how to create a simple Kafka producer and consumer using the confluent-kafka-python library, and generate random names using the Faker library. The producer sends the names to a Kafka topic, and the consumer reads them from the topic and prints them. The article covers the configuration of the Kafka producer and consumer, and explains how to handle larger messages. It also provides suggestions for article titles and tags. Overall, this article is a great starting point for anyone interested in using Kafka and Python for real-time data processing.
+
+You can access the full article, "Getting Started with Apache Kafka and Python," by visiting this [link](https://sohailhosseini.substack.com/p/getting-started-with-apache-kafka).
